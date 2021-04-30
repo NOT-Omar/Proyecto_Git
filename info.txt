@@ -1,3 +1,5 @@
 Este archivo es un texto de informacion para comunicar los alcances de este proyecto.
 Cree este proyecto para practicar los conocimientos sobre Git y GitHub.
 Lo actualizare para agregar lo que he practicado.
+Soy miembro de Murasaki y estoy modificando este proyecto mediante un fork.
+Murasaki va a crecer mucho. Vas a ver. Por Norma!!
