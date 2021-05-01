@@ -6,3 +6,10 @@ Murasaki va a crecer mucho. Vas a ver. Por Norma!!
 
 El equipo de Murasaki parece ser un buen equipo buscaremos llevar la mejor relacion.
 Me agradaron sus modificaciones al proyecto.
+
+Ya probamos traer los cambios al fork a traves de la consola. Ahora probaremos traer 
+los cambios del repositorio principal a través de GitHub.
+
+Creo que estoy entendiendo bien el flujo de trabajo de Git y GitHub cuando se trabaja 
+colaborativamente.
+
